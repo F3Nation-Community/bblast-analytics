@@ -22,8 +22,7 @@ Beatdowns come in throughout an entire 24 hour period, however the ingestions ar
 
 ## Variety
 - Beatdowns are ingested by both Paxminer and Slackblast, and after ingestion and fitted to the same schema.
-- These tools have different code bases. 
-Open question: What percentage of backblasts come through Paxminer versus coming through slackblast.
+    - 40/60 split between Paxminer and Slackblast respectively.
 
 ## Veracity
 - Beatdowns are submitted by users, and there are some data controls but still much junk data is submitted. The goal in identifying these is to find out what guidelines we can put on the data collection tools that can improve data quality without making the barrier to submitting data too high. 
